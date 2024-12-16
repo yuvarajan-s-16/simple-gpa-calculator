@@ -28,19 +28,19 @@ Open the project directory in Android Studio. and add the java file and xml file
   Click the "Run" button or use the "Run" menu to launch the app on an emulator or connected device.
 ```
 
-## Screenshots
+## Sample Output Screenshots with Marksheet
 
-#logo
+
 ![App Screenshot](screenshots/img2.jpg)
 
-#simple view
+
 ![App Screenshot](screenshots/img3.jpg)
 
-#add subject
+
 ![App Screenshot](screenshots/img5.jpg)
 
-#sample marksheet
+
 ![App Screenshot](screenshots/img1.jpg)
 
-#sample output
+
 ![App Screenshot](screenshots/img4.jpg)
