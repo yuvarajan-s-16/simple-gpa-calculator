@@ -44,3 +44,6 @@ Open the project directory in Android Studio. and add the java file and xml file
 
 
 ![App Screenshot](screenshots/img4.jpg)
+
+
+## Projects with installation support and code explaination for contact gmail: yuvarajanyuvarajan532@gmail.com
